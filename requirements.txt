@@ -5,7 +5,6 @@ chardet==3.0.4
 conda==4.8.4
 conda-package-handling==1.7.0+0.g7c4a471.dirty
 cryptography
-726d19dd-8f78-4188-740f-7cfa50939e05/volume/cryptography_1598371408437/work
 cycler==0.10.0
 feedparser==6.0.2
 google-trans-new==1.1.9
