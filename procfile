@@ -1,1 +1,1 @@
-worker python dococktweet.py
+web: python server.py
