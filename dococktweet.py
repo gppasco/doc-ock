@@ -1,6 +1,6 @@
 import tweepy
 import DocOck as doc
-import tokens
+#import tokens
 from os import environ
 
 API_KEY = environ['API_KEY']
